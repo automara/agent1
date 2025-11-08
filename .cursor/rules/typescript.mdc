@@ -1,0 +1,15 @@
+---
+alwaysApply: true
+---
+
+This project uses the Mastra framework for building AI agents in TypeScript.
+
+Follow Mastra conventions for agent structure, tools, and workflows.
+
+Use Langfuse for observability and tracking agent interactions.
+
+Organize code with clear folder structure: separate agents, tools, and utilities into their own directories.
+
+Include comments explaining what each section of code does, especially for TypeScript types and interfaces.
+
+When installing dependencies, explain what each package does and why we need it.
