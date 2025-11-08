@@ -1,4 +1,4 @@
-import { demoAgent } from './agent.js';
+import { demoAgent } from './mastra/agents/demoAgent.js';
 
 async function runDemo() {
   const result = await demoAgent.generate([
